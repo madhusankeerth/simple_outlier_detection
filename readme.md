@@ -1,6 +1,10 @@
 # Simple Outlier Detection
 
-The purpose of this script is to compute and visualize outliers in a time series, while preprocessing and aggregating the underlying raw data.
+The purpose of this project is to compute and visualize outliers in a time series, while preprocessing and aggregating the underlying raw data.
+
+## Required Libraries
+
+Please downlod the raw data file (**train.gz**) before running this project from Kaggle Competetion here: [train.gz](https://www.kaggle.com/akishen74/ctr-practice/data?select=train.gz).
 
 ## Required Libraries
 
