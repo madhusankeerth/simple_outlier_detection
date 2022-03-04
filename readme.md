@@ -27,6 +27,7 @@ We use the functions defined above to identify the outliers based on user-input 
 ####  Visualizing Outliers
 We visualize the identified outliers on the CTR time-series interactive graph.
 
+![bokeh_plot](https://user-images.githubusercontent.com/40733016/156792356-7bf5e6bf-148c-4828-8b90-5b732f2ecd9b.png)
 
 ## Author
 
