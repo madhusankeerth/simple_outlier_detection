@@ -4,7 +4,7 @@ The purpose of this project is to compute and visualize outliers in a time serie
 
 ## Required Libraries
 
-Please downlod the raw data file (**train.gz**) before running this project from Kaggle Competetion here: [train.gz](https://www.kaggle.com/akishen74/ctr-practice/data?select=train.gz).
+Please downlod the raw data file (**train.gz**) before running this project from Kaggle Competetion here: [train.gz](https://www.kaggle.com/c/avazu-ctr-prediction/data).
 
 ## Required Libraries
 
